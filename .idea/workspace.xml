@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="280237fe-6cd8-484b-9b31-712d4ea91928" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/committees.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repComParser.coffee" beforeDir="false" afterPath="$PROJECT_DIR$/repComParser.coffee" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,13 +35,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="JavaScript Console" value="247" />
-          <entry key="coffee" value="3715" />
+          <entry key="coffee" value="3717" />
           <entry key="html" value="88" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CoffeeScript" value="3715" />
+          <entry key="CoffeeScript" value="3717" />
           <entry key="HTML" value="88" />
           <entry key="JavaScript" value="247" />
         </counts>
@@ -52,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/repComParser.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="171">
+              <caret line="9" column="69" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -186,7 +187,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542379588087" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542393767834" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -223,15 +224,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542314629482</updated>
-      <workItem from="1542314633340" duration="12901000" />
+      <workItem from="1542314633340" duration="13751000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12901000" />
+    <option name="totallyTimeSpent" value="13751000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-470" width="2560" height="1417" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="UI Designer" />
@@ -243,13 +245,13 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="IDEtalk Messages" />
+      <window_info anchor="bottom" id="IDEtalk Messages" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -283,8 +285,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/repComParser.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="171">
+          <caret line="9" column="69" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="70" />
         </state>
       </provider>
     </entry>
